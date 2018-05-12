@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31628'
     url: http://www.gutenberg.org/2009/agents/31628
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25868#The-Young-Railroaders--13-Tales-of-Adventure-and-Ingenuity
 gutenberg_issued: '2008-06-21'
 gutenberg_type: Text
 identifiers:
